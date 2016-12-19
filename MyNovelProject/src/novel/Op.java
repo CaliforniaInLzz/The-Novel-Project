@@ -11,4 +11,5 @@ public final class Op {
 	public static final int LOOK=7333;
 	public static final int UPLOAD=111;
 	public static final int UPLOAD2=181;
+	public static final int UPLOA32=181;
 }
